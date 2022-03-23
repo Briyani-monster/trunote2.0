@@ -1,5 +1,5 @@
-#TruNote2.0
-new Version of Notes app using React
+# TruNote2.0
+- new Version of Notes app using React
 [Link](https://sensational-kelpie-748ab2.netlify.app/)
 
 
